@@ -12,6 +12,10 @@
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
+.Banco.sqlite
+.Banco.sqlite-shm
+.Banco.sqlite-wal
+.migrations/
 
 # Mono auto generated files
 mono_crash.*
